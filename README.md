@@ -1,5 +1,5 @@
 ---
-title: '**Bryn Haden**'
+title: '**Bryn Haden's Resume**'
 geometry: margin=2
 output:
   html_document:
