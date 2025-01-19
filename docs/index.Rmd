@@ -1,5 +1,5 @@
 ---
-title: '**STOR 538: Sports Analytics**'
+title: '**Bryn Haden**'
 geometry: margin=2
 output:
   html_document:
@@ -76,102 +76,56 @@ background-color: #13294B;
 
 # **Overview** {.tabset}
 
-Survey the application of statistics and mathematics to the sports industry exploring the history of analytics across various sports, understanding the advantages of sports analytics for both on-field performance and off-field business decisions, and examining current research to encourage creative thought of future development.
-
-The course will be organized by sport to ensure a comprehensive exploration of sports analytics. We will start with in-depth studies in Baseball, Basketball, American Football, Hockey, and Soccer. Later in the course, we will branch out according to the diverse interests of the class.
-
-The statistical programming language R will be used to generate visualizations and perform basic modeling.
+I am a dedicated and detail-oriented professional with a strong background in data analysis, public health, and project management. 
+With expertise in tools like SAS, Excel, and Tableau, I excel at transforming complex datasets into actionable insights that drive decision-making and improve outcomes. 
+I am seeking opportunities where I can contribute my analytical skills, technical expertise, and commitment to continuous improvement to support organizational goals, foster collaboration, 
+and make a meaningful impact in fields such as healthcare, management, or sports analytics.
 
 
 
 <div class="row">
   <div class="column">
 
-- Head Coach: **[Mario Giacomazzo](http://www.supermariogiacomazzo.com/)**
-
-- Personal Trainer: **[Mark Cahill](https://stor.unc.edu/people/graduate-students/)**
-
-- Syllabus: **[Section 1](Syllabi\STOR 538 Section 1 Syllabus.pdf)**
-
-- Game Days: MWF, 9:05AM - 9:55AM, Gardner 105
-
-- Office Hours: 
-    - Press Conference (Dr. Mario): F, 2:30PM - 4:30PM, Hanes 134
-    - Training Day (Mark): MW, 1:00PM - 2:00PM, Hanes B-04
-
-- University Approved Absences: **[Online Form](https://uaao.unc.edu/submit-a-request/)**
-
-  </div>
-  <div class="column">
-  <img src="UNC_Logo.png" width="auto" height="auto">
-  </div>
-</div> 
+- **[Bryn Haden](https://www.linkedin.com/in/bryn-haden-202522/)**
+- Carrboro, NC
+- brynhaden@hotmail.com
+- 571-294-3588
 
 
-# **Playbook** {.tabset}
+# **Education** {.tabset}
 
-## Required
+## Undergraduate Education
 
-- Mathletics (2nd Edition), Winston Et al., 2022, [ISBN: 9780691177625](https://www.amazon.com/Mathletics-Gamblers-Managers-Mathematics-Sports/dp/0691177627/ref=pd_lpo_1?pd_rd_w=Huo2i&content-id=amzn1.sym.116f529c-aa4d-4763-b2b6-4d614ec7dc00&pf_rd_p=116f529c-aa4d-4763-b2b6-4d614ec7dc00&pf_rd_r=ED5MDSAZ4VPN2XB2ND8T&pd_rd_wg=FMEFX&pd_rd_r=0498b611-9f4f-45a8-8a78-0ff980ecc143&pd_rd_i=0691177627&psc=1) (MATH)
+- Roanoke College, B.S Health and Exercise Science & Public Health
+    -4.0/4.0
+    -2018-2022
+    - [Official Transcript](Git Hub Connections Here)
 
-## Optional
+## - Graduate Education: Univeristy of North Carolina at Chapel Hill, MPH in Applied Epidemiology
+    - All High Passes or Passes
+    - 2023-2025
+    - [Official Transcript] (Git Hub Connections Here gds/gdgs/Officla Transcript.pdf)
 
-- Handbook of Statistical Methods and Analyses in Sports, Albert, Glickman, Et al., 2017, [ISBN: 9781498737364](https://www.amazon.com/Handbook-Statistical-Methods-Analyses-Handbooks-ebook/dp/B071X4CCVX/ref=sr_1_1?keywords=handbook+of+statistical+methods+and+analyses+in+sports&qid=1566148999&s=gateway&sr=8-1) (HSMAS)
+# **Relevant Experiences** {.tabset}
 
-- Sports Analytics: A Guide for Coaches, Managers, and Other Decision Makers, Alamar, 2013, [ISBN: 9780231162920](https://www.amazon.com/Sports-Analytics-Coaches-Managers-Decision/dp/0231162928/ref=sr_1_1?keywords=sports+analytics+alamar&qid=1565993176&s=books&sr=1-1) (SPAN)
+## Work Experiences
 
-- Sports Analytics: A Guide for Coaches, Managers, and Other Decision Makers (2nd Edition), Alamar, 2024, [ISBN: 9780231205207](https://www.amazon.com/Sports-Analytics-Coaches-Managers-Decision-dp-0231205201/dp/0231205201/ref=dp_ob_title_bk) (SPAN2)
-
-- Analytic Methods in Sports, Severini, 2015, [ISBN: 9781482237016](https://www.amazon.com/Analytic-Methods-Sports-Mathematics-Statistics/dp/1482237016/ref=sr_1_1?keywords=severini+sports+analytics&qid=1565993126&s=gateway&sr=8-1) (AMS)
-
-- Practicing Sabermetrics: Putting the Science of Baseball Statistics to Work, Costa et Al., 2009, [ISBN: 9780786441778](https://www.amazon.com/Practicing-Sabermetrics-Putting-Baseball-Statistics-ebook/dp/B00EEQ65J6/ref=sr_1_1?keywords=9780786441778&qid=1567533724&s=gateway&sr=8-1) (PS)
-
-- Analyzing Baseball Data with R, Marchi and Albert, 2014, [ISBN:9781466570238](https://www.amazon.com/Analyzing-Baseball-Data-Chapman-Hall-ebook/dp/B00GBC36S4/ref=sr_1_1?keywords=9781466570238&qid=1567536374&s=gateway&sr=8-1) (ABDR)
-
-- Sports Math: An Introductory Course in the Mathematics of Sports Science and Sports Analytics, Minton, 2017, [ISBN:9781498706261](https://www.amazon.com/Sports-Math-Introductory-Mathematics-Analytics-ebook/dp/B01N6Y6EVT/ref=sr_1_1?keywords=9781498706261&qid=1567565121&s=gateway&sr=8-1) (SM)
-
-- Introduction to NFL Analytics with R, Congelio, 2023, [ISBN:9781032427751](https://www.amazon.com/Introduction-Analytics-Chapman-Hall-Science/dp/1032427752/ref=sr_1_1?crid=3JET8VKTXMVN5&keywords=introduction+to+nfl+analytics+with+R&qid=1704903750&sprefix=introduction+to+nfl+analytics+with+r%2Caps%2C126&sr=8-1) (INAR)
-
-## Programming
-
-- [An Introduction to Statistical Learning](Textbooks in R/An Introduction to Statistical Learning.pdf)
-
-- [R for Data Science](Textbooks in R/R for Data Science- Import, Tidy, Transform, Visualize, and Model Data.pdf)
-
-## Mathletics Files
-
-- [Baseball](https://github.com/SuperMarioGiacomazzo/STOR538_WEBSITE/tree/master/MathleticsFiles/Baseball)
-- [Basketball](https://github.com/SuperMarioGiacomazzo/STOR538_WEBSITE/tree/master/MathleticsFiles/Basketball)
-- [Football](https://github.com/SuperMarioGiacomazzo/STOR538_WEBSITE/tree/master/MathleticsFiles/Football)
-- [Gambling](https://github.com/SuperMarioGiacomazzo/STOR538_WEBSITE/tree/master/MathleticsFiles/Gambling)
-
-## Sports Research
-
-- [Score Network](https://scorenetwork.org/)
-
-
-
-# **Film Sessions** {.tabset}
-
-## First Half
-
-| Date | Lecture | Material | Reading |
-|------|---------|--------:|---------:|
-|JAN 8| Syllabus     | [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeUZhibzggxIDcUYNzg42y8EEzNfwVCb3JkSvARvzwfSIT01Q/viewform?usp=sf_link)||
-|JAN 10| Sports Analytics I | [Slides](Slides/Sports Analytics 1/Sports_Analytics_1_Lecture.pdf) |Ch. 1 SPAN, [Web 1](https://sportsshow.net/top-10-most-popular-sports-in-the-world/), [Web 2](https://news.gallup.com/poll/610046/football-retains-dominant-position-favorite-sport.aspx), [Web 3](https://news.harvard.edu/gazette/story/2022/10/is-mlb-ready-to-compete-for-next-generation-of-fans/), [Web 4](https://en.wikipedia.org/wiki/List_of_professional_sports_leagues_by_revenue#:~:text=%20%20%20%20Rank%20%20%20,%20%20380%20%2014%20more%20rows%20), [Web 5](https://blog.sisuguard.com/what-is-the-fastest-growing-sport-in-america), [Web 6](https://twitter.com/thesfia/status/1120787424832045067), [Web 7](https://sgbonline.com/report-team-sports-participation-grows-in-2021-but-falls-short-of-2019/),[Web 8](https://www.athleticbusiness.com/operations/programming/article/15705426/sfia-report-team-sports-participants-increased-in-2023-by-8m-over-2022-numbers#:~:text=Programming-,SFIA%20Report%3A%20Team%20Sports%20Participants%20Increased%20in,by%208M%20Over%202022%20Numbers&text=The%20Sports%20%26%20Fitness%20Industry%20Association,2022%2C%20an%2011%25%20increase.), [Web 9](https://www.statista.com/chart/30240/respondents-who-do-the-following-sports-at-least-occasionally/) |
-|JAN 13| Sports Analytics II | [Slides](Slides/Sports Analytics 2/Sports_Analytics_2_Lecture.pdf) | Ch. 1-7 SPAN,[Web 1](https://cupblog.org/2024/05/08/benjamin-c-alamar-on-the-second-edition-of-sports-analytics/) ,[Web 2](https://www.fandomanalytics.com/)|
-|JAN 15| Sports Analytics II (Cont.) | [Slides](Slides/Sports Analytics 2/Sports_Analytics_2_Lecture.pdf) | Ch. 1-7 SPAN,[Web 1](https://cupblog.org/2024/05/08/benjamin-c-alamar-on-the-second-edition-of-sports-analytics/) ,[Web 2](https://www.fandomanalytics.com/)|
-|JAN 17| Sports Analytics II (Cont.) | [Slides](Slides/Sports Analytics 2/Sports_Analytics_2_Lecture.pdf) | Ch. 1-7 SPAN,[Web 1](https://cupblog.org/2024/05/08/benjamin-c-alamar-on-the-second-edition-of-sports-analytics/) ,[Web 2](https://www.fandomanalytics.com/)|
-|| Sports Analytics III | [Slides](Slides/Sports Analytics 3/Sports_Analytics_3_Lecture.pdf) | [Web 1](https://www.thebusinessresearchcompany.com/report/sports-global-market-report), [Web 2](https://www2.deloitte.com/us/en/pages/technology-media-and-telecommunications/articles/sports-business-trends-disruption.html), [Web 3](https://www.grandviewresearch.com/industry-analysis/sports-analytics-market), [Web 4](https://www.forbes.com/sites/forbestechcouncil/2019/01/31/how-data-analysis-in-sports-is-changing-the-game/?sh=7bccb29b3f7b), [Web 5](https://www.soccermetrics.net/misc-stuff/sports-analytics-career-advice), [Web 6](https://www.datacamp.com/blog/sports-analytics-how-different-sports-use-data-analysis), [Web 7](https://www.grandviewresearch.com/industry-analysis/sports-betting-market-report), [Web 8](https://conferenceindex.org/conferences/sport-analytics)
-|JAN 20| MLK | No Class ||
-|JAN 22| Sports Analytics IV| [Slides](Slides/Sports Analytics 4/Sports_Analytics_4_Lecture.pdf) | [Web 1](https://www.sportsmanagementworldwide.com/), [Web 2](https://www.udemy.com/courses/search/?src=ukw&q=sports%20analytics), [Web 3](https://sweepsportsanalytics.com/2021/08/01/10-steps-to-get-started-in-sports-analytics/), [Article 1](Articles/General/SportsAnalytics_Swartz.pdf) |
-|FEB 10| Well-being Day | No Class ||
+| Position Title | Organization | Location | Date | Job Duties |
+|------|---------|--------:|---------:| ---------:|
+|Implementation Research Assistant| North Carolina Institute for Public Health | Chapel Hill, NC | December 2023-Present| •	Furthered the ongoing research of a literature review covering emergency response & planning documents for Region 4 of the United States
+•	Created presentations and attended meetings with community partners within Region 4
+•	Assisted with preparation of meeting notes and agendas in advance of project meetings
+•	Assisted with data collection and analysis tasks related to project implementation and evaluation
+•	Took courses on infodemiology to create social media monitoring reports for internal team 
+•	Assisted with preparation of final dissemination of workplan for CDC
+•	Supported planning efforts for implementation strategies selected in Year 1 of the Preparedness Center workplan through literature review, project team meetings, and partner meetings
+•	Contributed to the preparation of implementation materials to support state, local, territorial, and tribal health entities and their partners for selected strategies
 |||||
 
-## Second Half
+## Internships
 
-| Date | Lecture | Material | Reading |
-|------|---------|--------:|---------:|
+| Position Title | Organization | Location | Date | Job Duties |
+|------|---------|--------:|---------:| ---------:|
 |MAR 10| Spring Break | No Class ||
 |MAR 12| Spring Break | No Class ||
 |MAR 14| Spring Break | No Class ||
@@ -179,93 +133,6 @@ The statistical programming language R will be used to generate visualizations a
 |APR 25| Work on Championship | | |
 |APR 28| Work on Championship | | |
 |||||
-
-<!-- | Date | Lecture | Material | Reading | -->
-<!-- |------|---------|--------:|---------:| -->
-<!-- |JAN 11| Syllabus     | [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeUZhibzggxIDcUYNzg42y8EEzNfwVCb3JkSvARvzwfSIT01Q/viewform?usp=sf_link)|| -->
-<!-- |JAN 16| Sports Analytics I | [Slides](Slides/Sports Analytics 1/Sports_Analytics_1_Lecture.pdf) |Ch. 1 SPAN, [Web 1](https://sportsshow.net/top-10-most-popular-sports-in-the-world/), [Web 2](https://biglysports.com/most-popular-sports-in-america/#:~:text=Basketball%20tops%20the%20ranking%20of%20the%20most%20popular,hockey%20are%20some%20of%20the%20country%E2%80%99s%20traditional%20sports.), [Web 3](https://news.harvard.edu/gazette/story/2022/10/is-mlb-ready-to-compete-for-next-generation-of-fans/), [Web 4](https://en.wikipedia.org/wiki/List_of_professional_sports_leagues_by_revenue#:~:text=%20%20%20%20Rank%20%20%20,%20%20380%20%2014%20more%20rows%20), [Web 5](https://blog.sisuguard.com/what-is-the-fastest-growing-sport-in-america), [Web 6](https://twitter.com/thesfia/status/1120787424832045067), [Web 7](https://sgbonline.com/report-team-sports-participation-grows-in-2021-but-falls-short-of-2019/), [Web 8](https://recreateyou.com/blog/post/the-25-fastest-growing-sports-in-america#:~:text=The%2010%20Fastest-Growing%20Sports%20in%20America%20and%20Their,running%3A%2032.4%25%208%208.%20Tennis%3A%2032.3%25%20More%20items) | -->
-<!-- |JAN 18| Sports Analytics II | [Slides](Slides/Sports Analytics 2/Sports_Analytics_2_Lecture.pdf) | Ch. 1-7 SPAN, [Web 1](https://www.fandomanalytics.com/)| -->
-<!-- |JAN 23| Sports Analytics III | [Slides](Slides/Sports Analytics 3/Sports_Analytics_3_Lecture.pdf) | [Web 1](https://www.thebusinessresearchcompany.com/report/sports-global-market-report), [Web 2](https://www2.deloitte.com/us/en/pages/technology-media-and-telecommunications/articles/sports-business-trends-disruption.html), [Web 3](https://www.grandviewresearch.com/industry-analysis/sports-analytics-market), [Web 4](https://www.forbes.com/sites/forbestechcouncil/2019/01/31/how-data-analysis-in-sports-is-changing-the-game/?sh=7bccb29b3f7b), [Web 5](https://www.soccermetrics.net/misc-stuff/sports-analytics-career-advice), [Web 6](https://www.datacamp.com/blog/sports-analytics-how-different-sports-use-data-analysis), [Web 7](https://www.grandviewresearch.com/industry-analysis/sports-betting-market-report) -->
-<!-- || Sports Analytics IV| [Slides](Slides/Sports Analytics 4/Sports_Analytics_4_Lecture.pdf) | [Web 1](https://www.sportsmanagementworldwide.com/), [Web 2](https://www.udemy.com/courses/search/?src=ukw&q=sports%20analytics), [Web 3](https://sweepsportsanalytics.com/2021/08/01/10-steps-to-get-started-in-sports-analytics/), [Article 1](Articles/General/SportsAnalytics_Swartz.pdf) | -->
-<!-- |JAN 25| Sports Analytics IV (Cont.)| [Slides](Slides/Sports Analytics 4/Sports_Analytics_4_Lecture.pdf) | [Web 1](https://www.sportsmanagementworldwide.com/), [Web 2](https://www.udemy.com/courses/search/?src=ukw&q=sports%20analytics), [Web 3](https://sweepsportsanalytics.com/2021/08/01/10-steps-to-get-started-in-sports-analytics/), [Article 1](Articles/General/SportsAnalytics_Swartz.pdf) | -->
-<!-- || Baseball I | [Slides](Slides/Baseball 1/Baseball_1_Lecture.pdf) |  [Web 1](https://sabr.org/about/founders), [Web 2](https://sabr.org/sabermetrics), [Article 1](Articles/Baseball/Baseball_Albert.pdf) | -->
-<!-- |JAN 30| Baseball I (Cont.) | [Slides](Slides/Baseball 1/Baseball_1_Lecture.pdf) |  [Web 1](https://sabr.org/about/founders), [Web 2](https://sabr.org/sabermetrics), [Article 1](Articles/Baseball/Baseball_Albert.pdf) | -->
-<!-- || Baseball II | [Slides](Slides/Baseball 2/Baseball_2_Lecture.pdf) |Ch.1-2 MATH, Ch.7 SM| -->
-<!-- |FEB 1| Baseball II (Cont.) | [Slides](Slides/Baseball 2/Baseball_2_Lecture.pdf) |Ch.1-2 MATH, Ch.7 SM| -->
-<!-- || Baseball III | [Slides](Slides/Baseball 3/Baseball_3_Lecture.pdf) |Ch. 3 MATH| -->
-<!-- |FEB 6| Baseball III (Cont.) | [Slides](Slides/Baseball 3/Baseball_3_Lecture.pdf) |Ch. 3 MATH| -->
-<!-- || Playoff Round 1 | | [Example](Playoffs/Round 1/Spikeball.pdf) | -->
-<!-- |FEB 8| Baseball IV | [Slides](Slides/Baseball 4/Baseball_4_Lecture.pdf) |Ch. 4-5 MATH, [Web 1](http://www.programmingr.com/monte-carlo-simulation-in-r/), [Web 2](https://www.baseballprospectus.com/news/article/878/pitching-and-defense-how-much-control-do-hurlers-have/)| -->
-<!-- |FEB 13| Well-Being | No Class || -->
-<!-- |FEB 20| Baseball V | [Slides](Slides/Baseball 5/Baseball_5_Lecture.pdf) |Ch. 6 MATH, [Web](https://batsandstats.com/2016/08/03/one-of-my-favorite-baseball-stats/)| -->
-<!-- |FEB 22| Baseball VI | [Slides](Slides/Baseball 6/Baseball_6_Lecture.pdf) |Ch. 8-9 MATH, [Web 1](http://sagarin.com/mills/seasons.htm), [Web 2](https://www.beyondtheboxscore.com/2014/1/10/5291950/basic-sabermetrics-wins-above-replacement-war-fwar-bwar-warp),[Web 3](https://gregstoll.com/~gregstoll/baseball/stats.html#V.0.1.0.1.0.0), [Web 4](https://baseballsavant.mlb.com/leaderboard/outs_above_average?type=Fielder&startYear=2019&endYear=2019&split=no&team=&range=year&min=q&pos=of&roles=&viz=show), [Article 1](Articles/Baseball/Baseball_Baumer_Jensen_Matthews.pdf)| -->
-<!-- |FEB 27| Baseball VII | [Slides](Slides/Baseball 7/Baseball_7_Lecture.pdf) |Ch. 11,16 MATH, [Article 1](Articles/Baseball/Baseball2_Albert.pdf), [Article 2](Baseball_Arbseman_Strogatz.pdf)| -->
-<!-- ||||| -->
-
-
-
-
-
-
-
-<!-- ## Second Half -->
-
-<!-- | Date | Lecture | Material | Reading | -->
-<!-- |------|---------|--------:|---------:| -->
-<!-- |FEB 29| Basketball I | [Slides](Slides/Basketball 1/Basketball_1_Lecture.pdf) |Ch. 28-29 MATH, [Web 1](https://stories.thinkingmachin.es/nba-in-30-years/#targetText=While%20not%20as%20high%20as,for%20us%20to%20enjoy!) [Web 2](http://www.basketballonpaper.com/), [Web 3](https://squared2020.com/2017/09/05/introduction-to-olivers-four-factors/) | -->
-<!-- |MAR 5| Basketball I (Cont.)| [Slides](Slides/Basketball 1/Basketball_1_Lecture.pdf) |Ch. 28-29 MATH, [Web 1](https://stories.thinkingmachin.es/nba-in-30-years/#targetText=While%20not%20as%20high%20as,for%20us%20to%20enjoy!) [Web 2](http://www.basketballonpaper.com/), [Web 3](https://squared2020.com/2017/09/05/introduction-to-olivers-four-factors/) | -->
-<!-- || Playoffs Round 2 || | -->
-<!-- |MAR 7| Playoffs Round 2 (Cont.) || | -->
-<!-- || Basketball II | [Slides](Slides/Basketball 2/Basketball_2_Lecture.pdf) |Ch. 30 MATH, [Web 1](https://hockey-graphs.com/2016/11/01/behind-the-numbers-why-plusminus-is-the-worst-statistic-in-hockey-and-should-be-abolished/), [Web 2](https://squared2020.com/2017/09/18/deep-dive-on-regularized-adjusted-plus-minus-i-introductory-example/), [Article 1](Articles/Basketball/Basketball_Sill.pdf) | -->
-<!-- |MAR 12| Spring Break | No Class || -->
-<!-- |MAR 14| Spring Break | No Class || -->
-<!-- |MAR 19| Basketball II (Cont.) | [Slides](Slides/Basketball 2/Basketball_2_Lecture.pdf) |Ch. 30 MATH, [Web 1](https://hockey-graphs.com/2016/11/01/behind-the-numbers-why-plusminus-is-the-worst-statistic-in-hockey-and-should-be-abolished/), [Web 2](https://squared2020.com/2017/09/18/deep-dive-on-regularized-adjusted-plus-minus-i-introductory-example/), [Article 1](Articles/Basketball/Basketball_Sill.pdf) | -->
-<!-- |MAR 21| Basketball II (Cont.) | [Slides](Slides/Basketball 2/Basketball_2_Lecture.pdf) |Ch. 30 MATH, [Web 1](https://hockey-graphs.com/2016/11/01/behind-the-numbers-why-plusminus-is-the-worst-statistic-in-hockey-and-should-be-abolished/), [Web 2](https://squared2020.com/2017/09/18/deep-dive-on-regularized-adjusted-plus-minus-i-introductory-example/), [Article 1](Articles/Basketball/Basketball_Sill.pdf) | -->
-<!-- || Basketball III | [Slides](Slides/Basketball 3/Basketball_3_Lecture.pdf) |Ch. 32-33 MATH, [Web 1](https://stats.nba.com/lineups/advanced/), [Web 2](http://www.82games.com/comm2.htm), [Web 3](https://squared2020.com/2018/12/13/five-man-lineups-data-access/)| -->
-<!-- || Basketball IV| [Slides](Slides/Basketball 4/Basketball_4_Lecture.pdf) |Ch. 31,34 MATH, [Web 1](https://www.basketball-reference.com/about/bpm2.html)| -->
-<!-- |MAR 28| Well-Being | No Class || -->
-<!-- |APR 2| Work on Playoff Rd. 2 | No Class || -->
-<!-- |APR 4| Basketball IV (Cont.) | [Slides](Slides/Basketball 4/Basketball_4_Lecture.pdf) |Ch. 31,34 MATH, [Web 1](https://www.basketball-reference.com/about/bpm2.html)| -->
-<!-- || Basketball V | [Slides](Slides/Basketball 5/Basketball_5_Lecture.pdf) |Ch. 35 MATH, [Article 1](Articles/Basketball/Basketball_PriceWolfers.pdf)| -->
-<!-- |APR 9| Work on Playoff Rd. 2 | No Class || -->
-<!-- |APR 11| Basketball VI | [Slides](Slides/Basketball 6/Basketball_6_Lecture.pdf) |Ch. 38 MATH, [Web 1](https://www.inpredictable.com/2016/05/endgame-strategy-in-nba.html), [Web 2](http://www.82games.com/lawhorn.htm)| -->
-<!-- |||| [Article 1](Articles/Basketball/Basketball_Gill.pdf), [Article 2](Articles/Basketball/Basketball_Kenter.pdf), [Article 3](Articles/Basketball/Basketball_Annis.pdf)| -->
-<!-- |APR 16| Football I | [Slides](Slides/Football 1/Footballl_1_Lecture.pdf) |Ch. 18 MATH| -->
-<!-- || Football II | [Slides](Slides/Football 2/Footballl_2_Lecture.pdf) |Ch. 19 MATH, [Web 1](https://hbr.org/2019/04/whos-the-most-important-member-of-an-nfl-franchise), [Web 2](https://bleacherreport.com/articles/1691533-which-metric-matters-most-when-evaluating-nfl-quarterbacks), [Web 3](https://www.espn.com/blog/statsinfo/post/_/id/123701/how-is-total-qbr-calculated-we-explain-our-quarterback-rating), [Article 1](Articles/Football/Football_WhiteBerry.pdf) | -->
-<!-- |APR 18| Football III | [Slides](Slides/Football 3/Footballl_3_Lecture.pdf) |Ch. 20 MATH, [Web 1](http://www.advancedfootballanalytics.com/2010/01/expected-points-ep-and-expected-points.html), [Article 1](Articles/Football/Football_CarterMachol.pdf), [Article 2](Articles/Football/Football_Romer.pdf), [Article 3](Articles/Football/Football_Goldner.pdf) | -->
-<!-- |APR 23| Football III (Cont.) | [Slides](Slides/Football 3/Footballl_3_Lecture.pdf) |Ch. 20 MATH, [Web 1](http://www.advancedfootballanalytics.com/2010/01/expected-points-ep-and-expected-points.html), [Article 1](Articles/Football/Football_CarterMachol.pdf), [Article 2](Articles/Football/Football_Romer.pdf), [Article 3](Articles/Football/Football_Goldner.pdf) | -->
-<!-- || Football IV | [Slides](Slides/Football 4/Footballl_4_Lecture.pdf) | Ch. 21 MATH, [Web 1](https://medium.com/@technocat79/building-a-basic-in-game-win-probability-model-for-the-nfl-54600e57fe1c), [Article 1](Articles/Football/Football_Pelechrinis2.pdf), [Article 2](Articles/Football/Football_PelechrinisPapalexakis.pdf) | -->
-<!-- |APR 25| Football V | [Slides](Slides/Football 5/Footballl_5_Lecture.pdf) | Ch. 22 MATH, [Web 1](https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/game-theory/neumann.html), [Web 2](https://plato.stanford.edu/entries/game-theory/), [Web 3](http://www.advancedfootballanalytics.com/2008/06/game-theory-and-runpass-balance.html) | -->
-<!-- || Football VI | [Slides](Slides/Football 6/Footballl_6_Lecture.pdf)  | Ch. 25-26 MATH, [Web 1](https://profootballtalk.nbcsports.com/2019/01/22/coin-toss-would-remain-important-if-ot-rule-is-tweaked/), [Web 2](https://www.businessinsider.com/bill-belichick-new-england-patriots-draft-philosophy-2017-4#1hes-always-about-building-a-team-hes-not-trying-to-collect-talent-1) | -->
-<!-- |||  | [Article 1](Articles/Football/Football_King.pdf), [Article 2](Articles/Football/Football_MasseyThaler.pdf) | -->
-<!-- |APR 30| Work on Championship | No Class || -->
-<!-- ||||| -->
-
-
-
-
-
-<!-- ## Overtime -->
-
-<!-- | Date | Lecture | Material | Reading | -->
-<!-- |------|---------|--------:|---------:| -->
-<!-- |APR 19| Sports Gambling I | [Slides](Slides/Gambling 1/Gambling_1_Lecture.pdf) |Ch. 44 MATH, [Web 1](https://www.thesportsgeek.com/sports-betting/what-is-a-unit/), [Web 2](https://mybettingsites.co.uk/learn/betting-odds-explained/), [Web 3](https://www.actionnetwork.com/betting-calculators/betting-odds-calculator) | -->
-<!-- ||||[Web 4](https://www.vegas.com/gaming/gaming-tips/sports-betting/), [Web 5](https://www.thesportsgeek.com/blog/beginners-tips-understanding-parlay-119/) ,[Web 6](https://www.thelines.com/betting/teaser/), [Article 1](Articles/Gambling/Gambling_Levitt.pdf), [Article 2](Articles/Gambling/Gambling_FleppNueschFranck.pdf) | -->
-<!-- |APR 21| Sports Gambling II | [Slides](Slides/Gambling 2/Gambling_2_Lecture.pdf) |Ch. 46 MATH, [Web 1](https://fivethirtyeight.com/methodology/how-our-nfl-predictions-work/) | -->
-<!-- |APR 24| Sports Gambling III | [Slides](Slides/Gambling 3/Gambling_3_Lecture.pdf) |Ch. 49 MATH, [Web 1](https://www.pinnacle.com/en/betting-articles/Betting-Strategy/How-to-use-kelly-criterion-for-betting/2BT2LK6K2QWQ7QJ8), [Web 2](https://www.oddsshark.com/sports-betting/best-sports-betting-strategies), [Article 1](Articles/Gambling/Gambling_Thorp.pdf)| -->
-<!-- |APR 26| Work on Championship| | | -->
-<!-- |APR 28| Work on Championship | | | -->
-<!-- ||||| -->
-
-
-<!-- |NOV 19| Hockey I | [Slides](Slides/Hockey 1/Hockey_1_Lecture.pdf) | Ch. 13-15 HSMAS, [Article 1](Articles/Hockey/Hockey_Thomas_Ventura_Jensen_Ma.pdf), [Web 1](https://www.secondcityhockey.com/2013/12/4/5167404/nhl-stats-made-simple-part-1-corsi-fenwick),[Web 2](http://hockeygoalies.org/stats/glossary.html), [Web 3](https://rdrr.io/cran/nhlscrapr/) | -->
-<!-- |NOV 22| Hockey II |  [Slides](Slides/Hockey 2/Hockey_2_Lecture.pdf) | Ch. 13-15 HSMAS, [Article 1](Articles/Hockey/Hockey_Thomas_Ventura_Jensen_Ma.pdf), [Web 1](https://www.secondcityhockey.com/2013/12/4/5167404/nhl-stats-made-simple-part-1-corsi-fenwick),[Web 2](http://hockeygoalies.org/stats/glossary.html), [Web 3](https://rdrr.io/cran/nhlscrapr/) | -->
-<!-- |NOV 24| Thanksgiving #SWAG | | | -->
-<!-- |NOV 26| Thanksgiving #SWAG | | | -->
-<!-- |NOV 29| Work on Championship| | | -->
-<!-- |DEC 1| Last Regular Season Quiz | | | -->
-<!-- ||||| -->
-
 
 
 # **Fundamentals of Sports Analytics** {.tabset}
@@ -663,4 +530,4 @@ The table below shows each group's MAE for $Spread$, $Total$, and $OREB$, respec
 
 
 
-This page was last updated on `r Sys.time()` Eastern Time by Super Mario.
+This page was last updated on `r Sys.time()` Eastern Time by Bryn Haden.
