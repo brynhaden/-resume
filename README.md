@@ -289,15 +289,8 @@ In the table below, you can find your group for each of the specific team-based 
 | APR 23 | GS7 | [Value for GS7](https://docs.google.com/forms/d/e/1FAIpQLSfzCEJ6ji2hXds7Ptrbx6vOQYHEH3trhLJck1CaVE9Yb6i36w/viewform?usp=sharing) |
 | ||||
 
-# **Playoff Results**
-
-The predictions of all XX teams can be accessed from the hyperlinks below. These three files contain predictions, actual values, calculations of MAE, and ranking. If you find any mistakes that cause the grades to change, I will adjust them. 
-
-- [Spread]()
-- [Total]()
-- [OREB]()
 ```
 
 
 
-This page was last updated on `r Sys.time()` Eastern Time by Bryn Haden.
+This page was last updated on `r Sys.time()` Eastern Time by Bryn Haden. The template for this website was created by [Mario Giacomazzo] (http://www.supermariogiacomazzo.com/).
