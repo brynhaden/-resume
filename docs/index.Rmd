@@ -81,10 +81,11 @@ I am a dedicated and detail-oriented professional with a strong background in da
 <div class="row">
   <div class="column">
 
-- **[Bryn Haden](https://www.linkedin.com/in/bryn-haden-202522/)**
-- Carrboro, NC
-- brynhaden@hotmail.com
-- 571-294-3588
+- **Personal Information: [Bryn Haden](https://www.linkedin.com/in/bryn-haden-202522/)**
+- Address: Carrboro, NC
+- Contact Information:
+    -Phone Number: 571-294-3588
+    -Email: brynhaden@hotmail.com
 
 
 # **Education** {.tabset}
@@ -92,13 +93,13 @@ I am a dedicated and detail-oriented professional with a strong background in da
 ## Undergraduate Education
 
 - Roanoke College, B.S Health and Exercise Science & Public Health
-    -4.0/4.0
     -2018-2022
-    - [Official Transcript](Git Hub Connections Here)
+    -GPA: 4.0/4.0
+    -[Official Transcript](Git Hub Connections Here)
 
 ## - Graduate Education: Univeristy of North Carolina at Chapel Hill, MPH in Applied Epidemiology
-    - All High Passes or Passes
     - 2023-2025
+    - All High Passes or Passes
     - [Official Transcript] (Git Hub Connections Here gds/gdgs/Officla Transcript.pdf)
 
 # **Relevant Experiences** {.tabset}
@@ -107,14 +108,13 @@ I am a dedicated and detail-oriented professional with a strong background in da
 
 | Position Title | Organization | Location | Date | Job Duties |
 |------|---------|--------:|---------:| ---------:|
-|Implementation Research Assistant| North Carolina Institute for Public Health | Chapel Hill, NC | December 2023-Present| •	Furthered the ongoing research of a literature review covering emergency response & planning documents for Region 4 of the United States
-•	Created presentations and attended meetings with community partners within Region 4
-•	Assisted with preparation of meeting notes and agendas in advance of project meetings
-•	Assisted with data collection and analysis tasks related to project implementation and evaluation
-•	Took courses on infodemiology to create social media monitoring reports for internal team 
-•	Assisted with preparation of final dissemination of workplan for CDC
-•	Supported planning efforts for implementation strategies selected in Year 1 of the Preparedness Center workplan through literature review, project team meetings, and partner meetings
-•	Contributed to the preparation of implementation materials to support state, local, territorial, and tribal health entities and their partners for selected strategies
+|Implementation Research Assistant| North Carolina Institute for Public Health | Chapel Hill, NC | December 2023-Present| - Furthered the ongoing research of a literature review covering emergency response & planning documents for Region 4 of the United States -Created presentations and attended meetings with community partners within Region 4
+-Assisted with preparation of meeting notes and agendas in advance of project meetings 
+-Assisted with data collection and analysis tasks related to project implementation and evaluation
+-Took courses on infodemiology to create social media monitoring reports for internal team 
+-Assisted with preparation of final dissemination of workplan for CDC
+-Supported planning efforts for implementation strategies selected in Year 1 of the Preparedness Center workplan through literature review, project team meetings, and partner meetings
+-Contributed to the preparation of implementation materials to support state, local, territorial, and tribal health entities and their partners for selected strategies
 |||||
 
 ## Internships
@@ -142,8 +142,7 @@ I am a dedicated and detail-oriented professional with a strong background in da
 |||||
 
 
-
-# **Skills, Publications and Awards/Honors** {.tabset}
+# **Skills, Publications/Presentations and Awards/Honors** {.tabset}
 
 ## Skills
 
@@ -151,7 +150,7 @@ Data Analysis Tools: R, REDCap, SAS, STATA, SPSS , Tableau, Microsoft Office Sui
 
 -------
 
-## Publications
+## Publications/Presentations
 
 Haden, B., Iyer, K., Hartranft, L, & Ackley, E. I. (2022). Influence of perceived neighborhood food and physical activity environments 
 on child weight trajectory. Southeast College of Sports Medicine Annual Meeting. Greenville, SC. [February 16-19, 2022]
@@ -176,20 +175,18 @@ living resources. American Journal of Preventive Medicine
 
 ## Awards/Honors
 
-Phi Beta Kappa Honors Society
-Roanoke College President’s List (2019 - 2022) 
-Academic All-American Finalist -Women’s Soccer (2021)
-Academic All-District – Women’s Soccer (2021)
-First Team-All ODAC Academic Team (2018-2021)
-ODAC All-State Academic Team (2022)
-Alpha Epsilon Delta Honors Society
-Alpha Lambda Delta Freshman Honors Society
-Department of Epidemiology Award (2024) 
+- Phi Beta Kappa Honors Society
+- Roanoke College President’s List (2019 - 2022) 
+- Academic All-American Finalist -Women’s Soccer (2021)
+- Academic All-District – Women’s Soccer (2021)
+- First Team-All ODAC Academic Team (2018-2021)
+- ODAC All-State Academic Team (2022)
+- Alpha Epsilon Delta Honors Society
+- Alpha Lambda Delta Freshman Honors Society
+- Department of Epidemiology Award (2024) 
 
 -------
 
 ```
-
-
 
 This page was last updated on `r Sys.time()` Eastern Time by Bryn Haden. The template for this website was created by [Mario Giacomazzo] (http://www.supermariogiacomazzo.com/).
