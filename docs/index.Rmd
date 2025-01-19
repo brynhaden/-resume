@@ -188,24 +188,8 @@ Department of Epidemiology Award (2024)
 
 -------
 
-
-```{r,echo=F,results=TRUE,message=F}
-# library(DT)
-# library(tidyverse)
-# library(readxl)
-# library(plyr)
-# 
-# setwd("D:/Mario Documents/UNC/STOR 538/STOR538_WEBSITE/Playoffs/Round 2")
-# 
-# ClassResults=read.csv(file="Class_Results.csv")
-# names(ClassResults)=c("Group","Spread MAE","Spread Rank","Total MAE","Total Rank","OREB MAE","OREB Rank")
-# 
-# ClassResults=round(ClassResults,2)
-# 
-# datatable(ClassResults,class="display",options = list(scrollX=F,
-#             columnDefs = list(list(className = 'dt-center', targets = 0:6))),rownames=F)
 ```
 
 
 
-This page was last updated on `r Sys.time()` Eastern Time by Bryn Haden.
+This page was last updated on `r Sys.time()` Eastern Time by Bryn Haden. The template for this website was created by [Mario Giacomazzo] (http://www.supermariogiacomazzo.com/).
