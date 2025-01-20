@@ -146,32 +146,29 @@ I am a dedicated and detail-oriented professional with a strong background in da
 
 ## Skills
 
-Data Analysis Tools: R, REDCap, SAS, STATA, SPSS , Tableau, Microsoft Office Suite, Health Surveillance Database Management, Python, and R
+Data Analysis Tools: R, REDCap, SAS, STATA, SPSS , Tableau, Power BI, Microsoft Office Suite, Health Surveillance Database Management, and Python
 
--------
 
 ## Publications/Presentations
-
-Haden, B., Iyer, K., Hartranft, L, & Ackley, E. I. (2022). Influence of perceived neighborhood food and physical activity environments 
+Presentations:
+-Haden, B., Iyer, K., Hartranft, L, & Ackley, E. I. (2022). Influence of perceived neighborhood food and physical activity environments 
 on child weight trajectory. Southeast College of Sports Medicine Annual Meeting. Greenville, SC. [February 16-19, 2022]
 
-Ackley, E. I., Iyer, K., & †Haden, B. (2021). Perceived neighborhood environments: Health impacts and catalysts for change. National Institutes of Health “Food Insecurity, Neighborhood Food Environment, and Nutrition Health Disparities: State of the Science 
+-Ackley, E. I., Iyer, K., & †Haden, B. (2021). Perceived neighborhood environments: Health impacts and catalysts for change. National Institutes of Health “Food Insecurity, Neighborhood Food Environment, and Nutrition Health Disparities: State of the Science 
 Convening”. Virtual Workshop [September 21-23, 2021]
 
-Haden, B., Iyer, K., & Ackley, E. I. (2021). Variations of obesity across the lifespan: Why zip code matters in the Roanoke Valley. 
+-Haden, B., Iyer, K., & Ackley, E. I. (2021). Variations of obesity across the lifespan: Why zip code matters in the Roanoke Valley. 
 Annual Meeting of the Virginia Public Health Association. Virtual meeting [April 9, 2021]
 
-Iyer, K., Haden, B., & Ackley, E. I. (2021). Perceptions of neighborhood environments as a predictor of childhood obesity. Annual 
+-Iyer, K., Haden, B., & Ackley, E. I. (2021). Perceptions of neighborhood environments as a predictor of childhood obesity. Annual 
 Meeting of the Virginia Public Health Association. Virtual meeting [April 9, 2021]
 
 Publications: 
-Haden, B., Steffan, S., & Ackley, E. I. (in progress). Data triangulation as a means to understand the impact of “place” on community 
+-Haden, B., Steffan, S., & Ackley, E. I. (in progress). Data triangulation as a means to understand the impact of “place” on community 
 health: A call to action in Appalachia. Journal of Appalachian Health. 
 
-Iyer, K., Haden, B., & Ackley. E. I. (in progress). Identifying obesogenic neighborhoods: The utility of perceived access to healthy 
+-Iyer, K., Haden, B., & Ackley. E. I. (in progress). Identifying obesogenic neighborhoods: The utility of perceived access to healthy 
 living resources. American Journal of Preventive Medicine
-
--------
 
 ## Awards/Honors
 
@@ -185,8 +182,5 @@ living resources. American Journal of Preventive Medicine
 - Alpha Lambda Delta Freshman Honors Society
 - Department of Epidemiology Award (2024) 
 
--------
-
-```
 
 This page was last updated on `r Sys.time()` Eastern Time by Bryn Haden. The template for this website was created by [Mario Giacomazzo] (http://www.supermariogiacomazzo.com/).
