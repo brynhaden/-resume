@@ -81,7 +81,9 @@ I am a dedicated and detail-oriented professional with a strong background in da
 <div class="row">
   <div class="column">
 
-- **Personal Information: [Bryn Haden](https://www.linkedin.com/in/bryn-haden-202522/)**
+- Personal Information: 
+    -**[LinkedIn](https://www.linkedin.com/in/bryn-haden-202522/)**
+    -**[Git Hub](https://github.com/brynhaden)**
 - Address: Carrboro, NC
 - Contact Information:
     -Phone Number: 571-294-3588
