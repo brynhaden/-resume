@@ -107,21 +107,21 @@ I am a dedicated and detail-oriented professional with a strong background in da
 ## Work Experiences
 
 | Position Title | Organization | Location | Date | Job Duties |
-|------|---------|--------:|---------:| ---------:|
+|------|-------|-------|---------| ---------|
 |Implementation Research Assistant| North Carolina Institute for Public Health | Chapel Hill, NC | December 2023-Present| - Furthered the ongoing research of a literature review covering emergency response & planning documents for Region 4 of the United States -Created presentations and attended meetings with community partners within Region 4
 -Assisted with preparation of meeting notes and agendas in advance of project meetings 
 -Assisted with data collection and analysis tasks related to project implementation and evaluation
 -Took courses on infodemiology to create social media monitoring reports for internal team 
 -Assisted with preparation of final dissemination of workplan for CDC
 -Supported planning efforts for implementation strategies selected in Year 1 of the Preparedness Center workplan through literature review, project team meetings, and partner meetings
--Contributed to the preparation of implementation materials to support state, local, territorial, and tribal health entities and their partners for selected strategies
+-Contributed to the preparation of implementation materials to support state, local, territorial, and tribal health entities and their partners for selected strategies |
 |||||
 
 ## Internships
 
 | Position Title | Organization | Location | Date | Job Duties |
 |------|---------|--------:|---------:| ---------:|
-|MAR 10| Spring Break | No Class ||
+|Public Health Intern| North Carolina Department of Health and Human Services | Raleigh, NC |May 2023-August 2023| -rates|
 |MAR 12| Spring Break | No Class ||
 |MAR 14| Spring Break | No Class ||
 |APR 18| Well-being Day | No Class ||
@@ -147,7 +147,6 @@ I am a dedicated and detail-oriented professional with a strong background in da
 ## Skills
 
 Data Analysis Tools: R, REDCap, SAS, STATA, SPSS , Tableau, Power BI, Microsoft Office Suite, Health Surveillance Database Management, and Python
-
 
 ## Publications/Presentations
 Presentations:
