@@ -3837,184 +3837,98 @@ if (window.hljs) {
 </script>
 
 
-
-
-
-
+<!-- code folding -->
 
 
 
 <style type="text/css">
+div.main-container {
+max-width: 1200px;
+}
+div.tocify {
+width: 20%;
+max-width: 260px;
+max-height: 85%;
+}
+@media (min-width: 768px) and (max-width: 991px) {
+div.tocify {
+width: 25%;
+}
+}
+@media (max-width: 767px) {
+div.tocify {
+width: 100%;
+max-width: none;
+}
+}
+.tocify ul, .tocify li {
+line-height: 20px;
+}
+.tocify-subheader .tocify-item {
+font-size: 0.90em;
+}
+.tocify .list-group-item {
+border-radius: 0px;
+}
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+</div>
+
+
+<h1 class="title toc-ignore"><strong>Bryn Haden</strong></h1>
+
+</div>
+
+
+<style type="text/css">
+div {
+color: #13294B;
+}
+a:link {
+color: #4B9CD3;
+text-decoration: none;
+}
+a:visited {
+text-decoration: none;
+color: #4B9CD3;
+}
+a:hover {
+color: #4B9CD3;
+background-color: #13294B;
+}
 .main-container {
-max-width: 940px;
+max-width: 300px;
 margin-left: auto;
 margin-right: auto;
 }
-img {
-max-width:100%;
+.column {
+float: left;
+width: 50%;
 }
-.tabbed-pane {
-padding-top: 12px;
-}
-.html-widget {
-margin-bottom: 20px;
-}
-button.code-folding-btn:focus {
-outline: none;
-}
-summary {
-display: list-item;
-}
-details > summary > p:only-child {
-display: inline;
-}
-pre code {
-padding: 0;
+.row:after {
+content: "";
+display: table;
+clear: both;
+} .center {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 30%;
 }
 </style>
-
-
-
-<!-- tabsets -->
-
-<style type="text/css">
-.tabset-dropdown > .nav-tabs {
-display: inline-table;
-max-height: 500px;
-min-height: 44px;
-overflow-y: auto;
-border: 1px solid #ddd;
-border-radius: 4px;
-}
-.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-content: "\e259";
-font-family: 'Glyphicons Halflings';
-display: inline-block;
-padding: 10px;
-border-right: 1px solid #ddd;
-}
-.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-content: "\e258";
-font-family: 'Glyphicons Halflings';
-border: none;
-}
-.tabset-dropdown > .nav-tabs > li.active {
-display: block;
-}
-.tabset-dropdown > .nav-tabs > li > a,
-.tabset-dropdown > .nav-tabs > li > a:focus,
-.tabset-dropdown > .nav-tabs > li > a:hover {
-border: none;
-display: inline-block;
-border-radius: 4px;
-background-color: transparent;
-}
-.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
-display: block;
-float: none;
-}
-.tabset-dropdown > .nav-tabs > li {
-display: none;
-}
-</style>
-
-</head>
-
-<body>
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bryn Haden</title>
-    <style>
-        .main-container {
-            max-width: 1200px; /* Adjust the max-width as needed */
-            margin-left: auto;
-            margin-right: auto;
-        }
-        img {
-            max-width: 100%;
-        }
-        .tabbed-pane {
-            padding-top: 12px;
-        }
-        .html-widget {
-            margin-bottom: 20px;
-        }
-        button.code-folding-btn:focus {
-            outline: none;
-        }
-        summary {
-            display: list-item;
-        }
-        details > summary > p:only-child {
-            display: inline;
-        }
-        pre code {
-            padding: 0;
-        {
-            display: flex;
-            align-items: center;
-        }
-        .resume-header img {
-            border-radius: 50%;
-            margin-right: 20px;
-            width: 150px; /* Adjust size as needed */
-            height: 150px; /* Adjust size as needed */
-        }
-        .overview {
-            flex: 1;
-        }
-        div {
-            color: #13294B;
-        }
-        #TOC {
-            color: #4B9CD3;
-        }
-        .list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
-            color: #4B9CD3;
-            background-color: #13294B;
-        }
-        a:link {
-            color: #4B9CD3;
-            text-decoration: none;
-        }
-        a:visited {
-            text-decoration: none;
-            color: #4B9CD3;
-        }
-        a:hover {
-            color: #4B9CD3;
-            background-color: #13294B;
-        }
-        .column {
-            float: left;
-            width: 50%;
-        }
-        .row:after {
-            content: "";
-            display: table;
-            clear: both;
-        }
-        .center {
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
-            width: 30%;
-        }
-    </style>
-</head>
-<body>
-    <div class="container-fluid main-container">
-        <div id="header">
-            <h1 class="title toc-ignore"><strong>Bryn Haden</strong></h1>
-        </div>
-        <div class="resume-header">
-            <img src="-resume/docs/IMG_5092.JPG" alt="Your Photo">
-
 <div id="overview" class="section level1 tabset">
 <h1 class="tabset"><strong>Overview</strong></h1>
 <p>I am a dedicated and detail-oriented professional with a strong background in data analysis, public health, and project management. 
