@@ -76,7 +76,14 @@ background-color: #13294B;
 
 # **Overview** {.tabset}
 
-I am a dedicated and detail-oriented professional with a strong background in data analysis, public health, and project management. With expertise in tools like Excel, Python, and Power BI, I excel at transforming complex datasets into actionable insights that drive decision-making and improve outcomes. I am seeking opportunities where I can contribute my analytical skills, technical expertise, and commitment to continuous improvement to support organizational goals, foster collaboration, and make a meaningful impact in fields such as healthcare, education, or sports analytics.
+I am a Business Intelligence Analyst and Varsity Assistant Soccer Coach building toward a long-term career working within team environments across sports.
+I currently work within the Enterprise Data Office (EDO) team at a state systems office, where I support and maintain enterprise-level data marts used by 16 institutions, system leadership, and executive stakeholders. My work involves extensive SAS development, database building, quality control, and Tableau dashboard design, with a focus on delivering accurate, actionable insights to non-technical audiences.
+Alongside my analytics work, I serve as a varsity assistant soccer coach, supporting practice planning, drill setup, player development, and performance and injury-prevention efforts. I’m especially interested in how data, performance, and operations intersect to support athlete availability and team success.
+I hold an MPH in Applied Epidemiology from the University of North Carolina at Chapel Hill, where I worked with Python, R, and SAS and built custom dashboards for both sports performance staff on the UNC Women's Soccer Team and community organizations through my time at the UNC Drug Checking Lab. My academic and professional background has trained me to think in systems, validate data carefully, and communicate clearly across teams.
+I’m a former collegiate soccer captain and valedictorian at Roanoke College, where I completed an honors thesis on environmental factors and health outcomes. I bring a collaborative, detail-oriented, and team-first mindset to everything I do and am eager to contribute wherever support is most needed; whether in operations, performance, analytics, or team support roles.
+
+For more details on my skills and experience, please visit my portfolio:
+GitHub: https://brynhaden.github.io/brynhaden
 
 <div class="row">
   <div class="column">
@@ -84,7 +91,7 @@ I am a dedicated and detail-oriented professional with a strong background in da
 - Personal Information: 
     -**[LinkedIn](https://www.linkedin.com/in/bryn-haden-202522/)**
     -**[Git Hub](https://github.com/brynhaden)**
-- Address: Carrboro, NC
+- Address: Raleigh, NC
 - Contact Information:
     -Phone Number: 571-294-3588
     -Email: brynhaden@hotmail.com
